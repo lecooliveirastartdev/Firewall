@@ -1,2 +1,2 @@
 # Firewall
- Descriação básica sobre Firewall!
+ Descrição básica sobre Firewall!
